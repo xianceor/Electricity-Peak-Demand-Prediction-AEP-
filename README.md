@@ -1,4 +1,4 @@
-# ⚡ Electricity Peak Demand Prediction System
+# Electricity Peak Demand Prediction System
 
 A dual-granularity machine learning framework that predicts electricity peak demand at both **daily** and **hourly** levels, deployed as an interactive Streamlit dashboard. Built on the AEP transmission zone load series merged with multi-city meteorological data (Oct 2012 – Nov 2017).
 
@@ -197,7 +197,7 @@ Actual Peak            4                   8
 If you use this work, please cite:
 
 ```
-Mayank, A. Shelke, and S. Shukla, "Peak Electricity Demand Prediction Using
+Mayank and S. Shukla, "Peak Electricity Demand Prediction Using
 Dual-Granularity Random Forest Classification: A Case Study on the AEP
 Transmission Zone," Sharda University, Greater Noida, India.
 ```
